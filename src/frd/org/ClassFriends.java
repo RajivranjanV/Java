@@ -15,5 +15,6 @@ public static void main(String[] args) {
 	onFriend.batchClass();
 	onFriend.rollNO();
 	onFriend.frdsClass();
+	System.out.println("ram");
 }
 }
